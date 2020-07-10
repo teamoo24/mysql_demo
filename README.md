@@ -5,7 +5,11 @@
 
 ## pixi.js
 * $ npm install pixi.js@4.8.4 pixi-sound
+
+
 To tell the truth `pixisound` is not need in this project. just memo
+
+
 * $ npm install --save-dev @types/pixi.js
 
 ## typescript
