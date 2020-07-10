@@ -10,7 +10,7 @@
 To tell the truth `pixisound` is not need in this project. just memo
 
 
-* $ npm install --save-dev @types/pixi.js
+* $ npm install @types/pixi.js@4.8.4
 
 ## typescript
 
@@ -20,5 +20,9 @@ To tell the truth `pixisound` is not need in this project. just memo
 ## mysql
 
 * npm install mysql
+* npm install mysqljs/mysql
 * npm install promise-mysql --save
 * npm install @types/mysql --save
+
+## express
+* npm install express --save
