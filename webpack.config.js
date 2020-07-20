@@ -7,9 +7,7 @@ module.exports = (env, argv) => {
 			index : path.join(__dirname, 'src' ,'index.ts'),
 		},
 		node: {
-			fs:'empty',
-			net: 'empty',
-			tls: 'empty'
+			fs: 'empty'
 		},
 		output: {
       		path: path.join(__dirname, 'www'),

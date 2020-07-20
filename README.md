@@ -23,6 +23,10 @@ To tell the truth `pixisound` is not need in this project. just memo
 * npm install mysqljs/mysql
 * npm install promise-mysql --save
 * npm install @types/mysql --save
+* npm install --save net tls fs
 
 ## express
 * npm install express --save
+
+## babel
+* npm install -D babel-loader @babel/core @babel/preset-env webpack
